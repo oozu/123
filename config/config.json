@@ -1,0 +1,5 @@
+{
+    "token": "",
+    "prefix": "/",
+    "mongodb": "mongodb+srv://oozu:<oleguer0329>@cluster0.kwcfslm.mongodb.net/?retryWrites=true&w=majority"
+}
